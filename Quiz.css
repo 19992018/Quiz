@@ -1,0 +1,8 @@
+ 
+body{
+	background-color:deeppink;
+}
+
+.popup.hide{
+    display: none;
+}
